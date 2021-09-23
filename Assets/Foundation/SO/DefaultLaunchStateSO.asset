@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c1d2be46ea524e61b77707dc0a30d2f, type: 3}
+  m_Name: DefaultLaunchStateSO
+  m_EditorClassIdentifier: 
+  HelpComment: "Fd\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uAE30\uBCF8\uC801\uC778
+    \uB7F0\uCE58 \uC0C1\uD0DC \uAE30\uB85D\uC790.\x03\n\uC774 \uAC1D\uCCB4\uC5D0\uC11C
+    \uCF5C\uB4DC\uB7F0\uCE58 \uC5EC\uBD80\uB97C \uD655\uC778\uD560 \uC218 \uC788\uB2E4."
